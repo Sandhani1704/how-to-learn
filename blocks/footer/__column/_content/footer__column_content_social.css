@@ -1,5 +1,3 @@
 .footer__column_content_social {
     right: 0;
-    display: flex;
-    flex-direction: column;
-    }
+}
