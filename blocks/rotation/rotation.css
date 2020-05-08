@@ -1,0 +1,11 @@
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+  }
+
+  @import url('../header/__square-pic/header__square-pic.css');
+  @import url('../kaufman/__triangle/kaufman__triangle.css');

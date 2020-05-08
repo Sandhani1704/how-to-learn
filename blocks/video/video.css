@@ -1,0 +1,12 @@
+ @import url(./__iframe/video__iframe.css);
+ @import url(./__iframes/video__iframes.css);
+ @import url(./__title/video__title.css);
+ 
+ .video {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    overflow: visible;
+    transform: translate(0px, 50px);
+    }
